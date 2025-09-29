@@ -3,9 +3,9 @@
 
 ## Summary
 
-Write a brief summary of what you accomplished in this lab assignment. Include what lists you created and how you used them to organize and control your LED light show using the proper Python program structure with `main()` and `if __name__ == "__main__":`.
+Write a brief summary of what you accomplished in this lab assignment. 
 
-*Use markdown lists (-, *, or +) to organize your thoughts throughout this reflection.*
+*Use markdown lists (using -) to organize your thoughts throughout this reflection.*
 
 ## Lists and Organization
 
@@ -14,7 +14,6 @@ Describe how you organized your code using lists. Use markdown lists to structur
 - **LED lists:** What lists did you create to organize your LED objects and properties?
 - **Data lists:** How did you use lists to store options like speeds, brightness levels, and names?
 - **List iteration:** How did you use for loops to iterate through your lists?
-- **List indexing:** How did you access specific elements in your lists using indices?
 
 ## List Operations
 
@@ -30,20 +29,11 @@ Describe the different list operations you used. Format your responses using mar
 Describe any creative choices you made in your light show using markdown lists:
 
 - **LED colors:** What colors did you use and how did you organize them in lists?
-- **Custom patterns:** How did you use lists to create unique lighting patterns?
-- **Brightness levels:** How did you use lists to control different brightness levels?
+- **Custom pattern:** How did you use lists to create unique lighting pattern for the finale?
 
 ## Challenges
 
-Describe the main challenges you faced and how you solved them using markdown lists:
-
-- **Challenge 1:** 
-- **Solution:** 
-
-- **Challenge 2:** 
-- **Solution:** 
-
-*Add more challenges and solutions as bullet points if needed.*
+Describe the main challenges you faced and how you solved them using markdown lists.
 
 ## Learning
 
@@ -53,10 +43,4 @@ What are the most important things you learned from this assignment about lists,
 
 If you were to complete this assignment again, what would you do differently to improve your use of lists or create more interesting patterns?
 
-## Additional Thoughts
 
-Any other thoughts, questions, or comments about this assignment? How did using lists change the way you think about organizing data and controlling multiple objects?
-
-*Remember to use markdown lists (-, *, or +) throughout your reflection to organize your thoughts clearly.*
-
----

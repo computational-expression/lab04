@@ -163,5 +163,5 @@
       check: MatchFileFragment
       options:
         fragment: '- '
-        count: 10
+        count: 9
         exact: false
