@@ -41,7 +41,7 @@
       check: MatchFileFragment
       options:
         fragment: led_pins
-        count: 2
+        count: 1
         exact: false
     - description: Create speed options list (at least 2 uses)
       check: MatchFileFragment

@@ -22,7 +22,7 @@ import time
 
 led_list = [Pin(15, Pin.OUT), Pin(14, Pin.OUT), Pin(13, Pin.OUT)]  # You can change GPIO pins
 led_names = []  # Add your LED names here
-led_pins = []  # Add your pin numbers here
+led_pins = []  # Add your pin numbers here 
 
 # TODO 2: Create lists for user options and show control
 # Create these lists with exact names and sizes as specified below:
